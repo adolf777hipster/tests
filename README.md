@@ -1,3 +1,3 @@
 # tests
 automated-testing
-https://stepik.org/
+Задачи с курса автоматического тестирования на stepik.org
