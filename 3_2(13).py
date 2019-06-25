@@ -3,6 +3,7 @@ from selenium import webdriver
 import time
 
 
+
 class TestAbs(unittest.TestCase):
     def test_abs1(self):
         link = "http://suninjuly.github.io/registration1.html"
