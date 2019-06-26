@@ -20,8 +20,8 @@ def print_smiling_faces():
 
 class TestPrintSmilingFaces():
     def test_first_smiling_faces(self, prepare_faces, very_important_fixture):
+        return
 
-# какие-то проверки
 
     def test_second_smiling_faces(self, prepare_faces):
-# какие-то проверки
+        return
