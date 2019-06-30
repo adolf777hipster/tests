@@ -1,0 +1,1 @@
+Solution for Stepik's "Automation Testing with Selenium and Python" course assigment: lesson 3.6 step 9 
